@@ -1,0 +1,25 @@
+{
+	"name": "cofDragRuler",
+	"title": "Chroniques Oubliées - Drag Ruler",
+	"description": "Intégration de Drag Ruler dans le système Chroniques Oubliées",
+	"author": "Eryan",
+	"version": "1.0.0",
+	"minimumCoreVersion": "0.7.9",
+	"compatibleCoreVersion": "0.7.9",
+	"systems": [
+		"cof"
+	],
+	"esmodules": [
+		"main.js"
+	],
+    "packs":[
+        {
+            "name": "macros",
+            "label": "Macros CofDragRuler",
+            "system": "cof",
+            "path": "macros.db",
+            "entity": "Macro",
+            "tag": "macro"
+        }
+    ]
+}
