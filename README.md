@@ -18,7 +18,7 @@ Puis définir la distance de marche et la distance de course.
   
 Il est possible d'avoir une configuration différente pour chaque token.  
 Pour ce faire, dans la configuration du module intitulée "Chroniques Oubliées - Drag Ruler", il faut **DECOCHER** la case "Configuration Unique".  
-Puis sélectionner le token souhaité et utiliser la macro "Configuration des distances - Drag Ruler" disponible dans le compendium "Macros CofDragRuler".  
+Puis sélectionner le ou les token(s) souhaité(s) et utiliser la macro "Configuration des distances - Drag Ruler" disponible dans le compendium "Macros CofDragRuler".  
 Il est également possible de vérifier les distances d'un token en utilisant la macro "Vérification des distances - Drag Ruler" disponible dans le compendium "Macros CofDragRuler".
   
 ## Définir les couleurs  

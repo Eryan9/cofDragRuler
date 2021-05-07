@@ -21,5 +21,8 @@
             "entity": "Macro",
             "tag": "macro"
         }
-    ]
+    ],
+	"url": "https://github.com/Eryan9/cofDragRuler",
+	"manifest": "https://raw.githubusercontent.com/Eryan9/cofDragRuler/main/module.json",
+	"download": "https://github.com/Eryan9/cofDragRuler/archive/refs/heads/main.zip"
 }
